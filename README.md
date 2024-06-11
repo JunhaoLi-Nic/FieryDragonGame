@@ -1,12 +1,4 @@
-# FIT3077 - Sprint 03
-
-## Jai (28801385)
-
-## Junhao (30041880)
-
-## Liam Nixon (30649544)
-
-## Maddy (31503780)
+# FIT3077
 
 ## Video
 
